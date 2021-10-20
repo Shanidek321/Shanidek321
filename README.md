@@ -41,7 +41,7 @@
   <img height=60px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" alt="powerbi"/>
 </td>
 <td align="center" width="50%">
- <img height=60px src="https://senturus.com/wp-content/uploads/2016/04/Tableau-New-Logo-April-12-2016.jpg" alt="tableau" />
+ <img height=60px src="https://www.absentdata.com/wp-content/uploads/2018/01/Tableau-logo.jpg" alt="tableau" />
 </td>
 </tr>
 
