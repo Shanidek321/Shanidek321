@@ -33,6 +33,20 @@
 </tbody>
 </table>
 
+- **Technologies**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+  <img height=60px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" alt="powerbi"/>
+</td>
+<td align="center" width="50%">
+ <img height=60px src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" />
+</td>
+</tr>
+
+</tbody>
+</table>
 
 - **Databases**
 <table>
