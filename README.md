@@ -41,7 +41,7 @@
   <img height=60px src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" alt="powerbi"/>
 </td>
 <td align="center" width="50%">
- <img height=60px src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" />
+ <img height=60px src="https://senturus.com/wp-content/uploads/2016/04/Tableau-New-Logo-April-12-2016.jpg" alt="tableau" />
 </td>
 </tr>
 
