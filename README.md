@@ -58,6 +58,9 @@
 <td align="center" width="33%">
  <img height=60px src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" />
 </td>
+<td align="center" width="33%">
+ <img height=60px src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" alt="mongo" />
+</td>
 </tr>
 
 </tbody>
