@@ -19,8 +19,14 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
+ <td align="center" width="33%">
+ <img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" >
+</td>
+ <td align="center" width="33%">
+ <img height=60px src="https://www.newhorizons.com/portals/278/Images/sql-server-icon.png?ver=2019-09-17-141121-777" alt="sql" />
 </td>
 </tr>
 
