@@ -27,6 +27,7 @@
 </tbody>
 </table>
 
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">  </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
 - **Databases**
 <table>
@@ -35,7 +36,12 @@
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
 </td>
-
+<td>
+  <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
+</td>
+<td>
+ <img height=60px src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" />
+</td>
 </tr>
 
 </tbody>
