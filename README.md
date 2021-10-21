@@ -19,13 +19,13 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
- <td align="center" width="33%">
+<!--  <td align="center" width="33%">
  <img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" >
-</td>
- <td align="center" width="33%">
+</td> -->
+ <td align="center" width="50%">
  <img height=60px src="https://www.newhorizons.com/portals/278/Images/sql-server-icon.png?ver=2019-09-17-141121-777" alt="sql" />
 </td>
 </tr>
@@ -52,15 +52,15 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
   <img height=60px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
  <img height=60px src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" />
 </td>
-<td align="center" width="33%">
+<!-- <td align="center" width="33%">
  <img height=60px src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" alt="mongo" />
-</td>
+</td> -->
 </tr>
 
 </tbody>
