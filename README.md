@@ -1,6 +1,5 @@
 
-<h2> Hey there! I'm Shani. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="400"/>
+<h2> Hey there! I'm Shani.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
